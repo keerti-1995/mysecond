@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(30, 203, 226);
+    font-size: 32px;
+  }
+  h1 {
+    color: rgb(21, 228, 21);
+  }
+  p {
+    color: red;
+  }
+  .change{
+      color:darkgreen;
+      font-size: 45px;
+      
+  }
+  .name123 {
+      color:rgb(161, 25, 219)
+  }
+
+  .differentfont {
+    font-size:30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+    color: rgb(156, 140, 19);
+}
+
+.sadfont {
+    font-size:30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+    color: rgb(156, 19, 88);
+}
